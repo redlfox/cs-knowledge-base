@@ -1,4 +1,6 @@
 name: Git mv
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
 
 jobs:
   say-hello:
@@ -14,3 +16,5 @@ jobs:
       - name: Tag repo
         id: tag-repo
         run: git mv sub newnaasme
+      - run: git commit -m "Rename file"
+      - run: git push origin main
