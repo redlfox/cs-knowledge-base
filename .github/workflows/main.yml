@@ -1,12 +1,4 @@
-name: Example Workflow
-
-on:
-  workflow_dispatch:
-    inputs:
-      tag:
-        description: git tag that should be created
-        required: true
-        type: string
+name: Git mv
 
 jobs:
   say-hello:
