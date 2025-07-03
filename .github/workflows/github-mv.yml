@@ -1,0 +1,21 @@
+name: Github mv
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+
+jobs:
+  say-hello:
+    name: Tag repo
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # required to be able to write tags
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: github-mv-step1
+        id: github-mv-step1
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git mv sub specialty
+          git commit -m "Rename file"
+          git push origin main
