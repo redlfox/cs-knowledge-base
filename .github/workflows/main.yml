@@ -1,0 +1,24 @@
+name: Example Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: git tag that should be created
+        required: true
+        type: string
+
+jobs:
+  say-hello:
+    name: Tag repo
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # required to be able to write tags
+
+    steps:
+      # Change @main to a specific commit SHA or version tag, e.g.:
+      # actions/repo-tagger@e76147da8e5c81eaf017dede5645551d4b94427b
+      # actions/repo-tagger@v1.2.3
+      - name: Tag repo
+        id: tag-repo
+        run: git mv sub newnaasme
