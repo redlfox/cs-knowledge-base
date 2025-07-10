@@ -14,9 +14,9 @@ https://github.com/leegb/myp
 
 ## Conponents
 
-https://github.com/samschott/desktop-notifier
-
-https://github.com/caronc/apprise/ Apprise - Push Notifications that work with just about every platform!
+* https://github.com/samschott/desktop-notifier
+* https://github.com/caronc/apprise/ Apprise - Push Notifications that work with just about every platform!
+* https://github.com/dschep/ntfy 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 
 ## Libraries
 
