@@ -11,6 +11,7 @@ https://github.com/leegb/myp
 
 * https://github.com/Harjot-15/CCenterX GUI
 * https://github.com/technoluc/FileWatcher Luc's FileWatcher is a Python application that monitors specified folders for file changes and provides notifications.
+* https://github.com/Pixel-Master/File-Find 🔎📁 A file search utility to find files easier and faster. For macOS, Linux and Windows. 
 
 ## Conponents
 
