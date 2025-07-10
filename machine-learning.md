@@ -6,3 +6,6 @@ https://github.com/wandb/wandb The AI developer platform. Use Weights & Biases t
 
 * https://github.com/mendableai/firecrawl
 * https://github.com/chatchat-space/Langchain-Chatchat
+* https://github.com/bhaskatripathi/pdfGPT
+* https://github.com/dotvignesh/PDFChat
+* https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
