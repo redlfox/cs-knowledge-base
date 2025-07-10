@@ -21,4 +21,5 @@ https://github.com/leegb/myp
 
 ## Libraries
 
-[PythonForWindows](https://github.com/hakril/PythonForWindows) A codebase aimed to make interaction with Windows and native execution easier
+* pyqt pyside PySimpleGUI tkinter
+* [PythonForWindows](https://github.com/hakril/PythonForWindows) A codebase aimed to make interaction with Windows and native execution easier
