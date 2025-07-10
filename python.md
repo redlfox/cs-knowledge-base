@@ -9,7 +9,8 @@ https://github.com/leegb/myp
 
 ## Tools
 
-https://github.com/Harjot-15/CCenterX GUI
+* https://github.com/Harjot-15/CCenterX GUI
+* https://github.com/technoluc/FileWatcher Luc's FileWatcher is a Python application that monitors specified folders for file changes and provides notifications.
 
 ## Conponents
 
