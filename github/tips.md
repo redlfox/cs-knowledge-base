@@ -2,6 +2,8 @@
 
 github default branch master main
 
+[Managing the default branch name for your repositories - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/managing-the-default-branch-name-for-your-repositories)
+
 * https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax
 * https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
 ## utilities
