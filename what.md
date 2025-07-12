@@ -8,4 +8,6 @@
 
 > A powerful, visual workflow builder for creating, managing, and executing workflows with a node-based interface. This tool allows users to design complex workflows by connecting nodes that represent different operations, from basic data processing to advanced AI and machine learning tasks.
 
-[drduh/YubiKey-Guide: Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.](https://github.com/drduh/YubiKey-Guide)
+- [drduh/YubiKey-Guide: Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.](https://github.com/drduh/YubiKey-Guide)
+- https://github.com/IRedDragonICY/CompactJV A robust and efficient solution for compressing game or application folders. Utilizing the built-in compact.exe utility from Windows, our application offers a seamless and user-friendly modern interface for compression tasks.
+- https://github.com/sparvu/data-recorders A set of CLI utilities designed to record top essential performance metrics
