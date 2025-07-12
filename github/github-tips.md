@@ -9,6 +9,18 @@ https://stackoverflow.com/questions/64781462/github-actions-default-branch-varia
 * https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax
 * https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
 ## utilities
+[👨‍💻 Developer Tools · fmhy/FMHY Wiki](https://github.com/fmhy/edit/blob/main/docs/devtools.md) [2](https://fmhy.net/devtools)
+
+* [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - GitHub Userscripts
+* [Awesome Actions](https://github.com/sdras/awesome-actions) - Curated List of Github Actions
+* [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
+* [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
+* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
+* [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - Git Hosting
+* [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
+* [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
+* [GitBook](https://www.gitbook.com/) - Document Collaboration
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features
 * https://onlineminitools.com/github-repo-size-checker
 * https://git-bit.netlify.app/
 ### Rollback revert commit
