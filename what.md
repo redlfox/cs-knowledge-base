@@ -11,3 +11,4 @@
 - [drduh/YubiKey-Guide: Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.](https://github.com/drduh/YubiKey-Guide)
 - https://github.com/IRedDragonICY/CompactJV A robust and efficient solution for compressing game or application folders. Utilizing the built-in compact.exe utility from Windows, our application offers a seamless and user-friendly modern interface for compression tasks.
 - https://github.com/sparvu/data-recorders A set of CLI utilities designed to record top essential performance metrics
+[ionescu007/wnfun: WNF Utilities 4 Newbies (WNFUN)](https://github.com/ionescu007/wnfun) Python scripts and C tools that some guys wrote for their BlackHat 2018 presentation on the Windows Notification Facility.
