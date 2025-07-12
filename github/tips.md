@@ -12,7 +12,7 @@ github default branch master main
 ### Rollback revert commit
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
 
-git-filter-repo
+[newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo) Quickly rewrite git repository history (filter-branch replacement)
 
 [Manual Rollback Action · Actions · GitHub Marketplace](https://github.com/marketplace/actions/manual-rollback-action)
 
