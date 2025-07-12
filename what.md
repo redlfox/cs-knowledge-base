@@ -1,4 +1,4 @@
-#What
+# What
 
 [Anubhavnatani04/BuzzBrief](https://github.com/Anubhavnatani04/BuzzBrief)
 
