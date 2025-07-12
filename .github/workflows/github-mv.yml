@@ -3,10 +3,15 @@ run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   workflow_dispatch:
     inputs:
-      username:
-        description: 'A username passed from the caller workflow'
-        default: 'john-doe'
-        required: false
+      srcdir:
+        description: 'dir to move'
+        default: ''
+        required: true
+        type: string
+      desdir:
+        description: 'desdir'
+        default: ''
+        required: true
         type: string
 
 jobs:
@@ -23,6 +28,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git mv sub specialty
+          git mv ${{ inputs.srcdir }} ${{ inputs.desdir }}
           git commit -m "Rename file"
           git push origin main
