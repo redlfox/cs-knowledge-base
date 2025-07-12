@@ -1,20 +1,25 @@
-name: Github mv
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: Move Files In This Repository
+run-name: ${{ github.actor }} is moving repository files.
 on:
   workflow_dispatch:
     inputs:
-      username:
-        description: 'A username passed from the caller workflow'
-        default: 'john-doe'
-        required: false
+      srcdir:
+        description: 'dir to move'
+        default: ''
+        required: true
+        type: string
+      desdir:
+        description: 'desdir'
+        default: ''
+        required: true
         type: string
 
 jobs:
   say-hello:
-    name: Tag repo
+    name: Move Files
     runs-on: ubuntu-latest
     permissions:
-      contents: write # required to be able to write tags
+      contents: write # required to be able to write the repo
 
     steps:
       - uses: actions/checkout@v4
@@ -23,6 +28,7 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git mv sub specialty
+          git mv ${{ inputs.srcdir }} ${{ inputs.desdir }}
           git commit -m "Rename file"
-          git push origin main
+          git push origin ${{ github.event.repository.default_branch }}
+
