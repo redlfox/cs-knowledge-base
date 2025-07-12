@@ -20,6 +20,6 @@ https://github.com/leegb/myp
 * https://github.com/dschep/ntfy 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 
 ## Libraries
-
+* Python built-in 'json' module is slow. [msgspec](https://jcristharif.com/msgspec/) orjson
 * pyqt pyside PySimpleGUI tkinter
 * [PythonForWindows](https://github.com/hakril/PythonForWindows) A codebase aimed to make interaction with Windows and native execution easier
