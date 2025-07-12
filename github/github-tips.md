@@ -11,7 +11,7 @@ https://stackoverflow.com/questions/64781462/github-actions-default-branch-varia
 ## utilities
 [👨‍💻 Developer Tools · fmhy/FMHY Wiki](https://github.com/fmhy/edit/blob/main/docs/devtools.md) [2](https://fmhy.net/devtools)
 
-* [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - GitHub Userscripts
+* [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) [2](https://greasyfork.org/en/users/24847-mottie) - Userscripts to add functionality to GitHub
 * [Awesome Actions](https://github.com/sdras/awesome-actions) - Curated List of Github Actions
 * [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
