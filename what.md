@@ -7,3 +7,5 @@
 [Sagura091/workflow-builder](https://github.com/Sagura091/workflow-builder)
 
 > A powerful, visual workflow builder for creating, managing, and executing workflows with a node-based interface. This tool allows users to design complex workflows by connecting nodes that represent different operations, from basic data processing to advanced AI and machine learning tasks.
+
+[drduh/YubiKey-Guide: Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.](https://github.com/drduh/YubiKey-Guide)
