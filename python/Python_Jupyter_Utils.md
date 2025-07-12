@@ -1,5 +1,5 @@
 ## A list of useful functions 
-> [Original](https://github.com/mahboob82/Software-tips/blob/main/Python_Jupyter_Utils.md) by Mahboob Alam, modify modified by redlfox
+> [Original](https://github.com/mahboob82/Software-tips/blob/main/Python_Jupyter_Utils.md) by Mahboob Alam, modified by redlfox
 
 * To adjust jupyter window size
 ```python
