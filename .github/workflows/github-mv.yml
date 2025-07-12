@@ -1,5 +1,5 @@
-name: Github mv
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: Move Files In This Repository
+run-name: ${{ github.actor }} is moving repository files.
 on:
   workflow_dispatch:
     inputs:
@@ -16,10 +16,10 @@ on:
 
 jobs:
   say-hello:
-    name: Tag repo
+    name: Move Files
     runs-on: ubuntu-latest
     permissions:
-      contents: write # required to be able to write tags
+      contents: write # required to be able to write the repo
 
     steps:
       - uses: actions/checkout@v4
