@@ -144,7 +144,7 @@ def write_parquet_pickle(df, df_str, out_path, ftype='parquet', columns=[]):
 * Files Watchdog
 ```python
 from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
+from watchdog.events import FileSystemEvent, FileSystemEventHandler
 ```
 
 * Write to files
