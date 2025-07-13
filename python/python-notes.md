@@ -28,6 +28,6 @@ https://github.com/leegb/myp
 ## Misc
 
 - [PySimpleGUI/PySimpleGUI: Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxPython, and Remi into a simple, intuitive, and fun experience for both hobbyists and expert users.](https://github.com/PySimpleGUI/PySimpleGUI)
-- [Saml1211/Project-QuickNav](https://github.com/Saml1211/Project-QuickNav)
+- [Saml1211/Project-QuickNav](https://github.com/Saml1211/Project-QuickNav) QuickNav is a project directory navigation utility using a 5-digit project code system, with both CLI and GUI components.
 - [klieret/inspiderweb: Analyze papers referencing each other. Extracts information from inspirehep, then describes the network in the dot language. Result can be plotted by dot, neato & Co.](https://github.com/klieret/inspiderweb)
 > requirements.txt: typing; python_version == '3.4'
