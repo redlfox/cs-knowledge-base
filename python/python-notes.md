@@ -31,3 +31,4 @@ https://github.com/leegb/myp
 - [Saml1211/Project-QuickNav](https://github.com/Saml1211/Project-QuickNav) QuickNav is a project directory navigation utility using a 5-digit project code system, with both CLI and GUI components.
 - [klieret/inspiderweb: Analyze papers referencing each other. Extracts information from inspirehep, then describes the network in the dot language. Result can be plotted by dot, neato & Co.](https://github.com/klieret/inspiderweb)
 > requirements.txt: typing; python_version == '3.4'
+- https://github.com/DevKaliper/top-my-window pygetwindow pywinauto pywin32 tk
