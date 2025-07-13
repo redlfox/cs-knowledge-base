@@ -16,11 +16,5 @@
 
 - [avenix/WDK: The Wearables Development Toolkit - a development environment for activity recognition applications with sensor signals](https://github.com/avenix/WDK)
 - [alandefreitas/matplotplusplus: Matplot++: A C++ Graphics Library for Data Visualization 📊🗾](https://github.com/alandefreitas/matplotplusplus)
-- [klieret/inspiderweb: Analyze papers referencing each other. Extracts information from inspirehep, then describes the network in the dot language. Result can be plotted by dot, neato & Co.](https://github.com/klieret/inspiderweb)
-> requirements.txt: typing; python_version == '3.4'
-- [Firstp1ck/Hyprland-Simple-Setup: Setup Hyprland the simple way.](https://github.com/Firstp1ck/Hyprland-Simple-Setup?tab=readme-ov-file#introduction)
-- [tinyclub/linux-lab: Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment; New Linux ELF Video Course from this project author: https://www.cctalk.com/m/group/88089283](https://github.com/tinyclub/linux-lab)
-- [shreeshailaya/C-DAC-Notes: work in progress...](https://github.com/shreeshailaya/C-DAC-Notes)
 - [brittawi/SkiersProject](https://github.com/brittawi/SkiersProject)
-- [PySimpleGUI/PySimpleGUI: Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxPython, and Remi into a simple, intuitive, and fun experience for both hobbyists and expert users.](https://github.com/PySimpleGUI/PySimpleGUI)
-- [Saml1211/Project-QuickNav](https://github.com/Saml1211/Project-QuickNav)
+- https://github.com/lucasb-eyer/pydensecrf Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
