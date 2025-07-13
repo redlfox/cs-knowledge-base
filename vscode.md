@@ -1,7 +1,14 @@
 # Visual Studio Code
-* [General Extensions Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MatthiasBohn.general-extensions-pack)
+
+## Instructions
+
+- [tommymsw/vscode-1](https://github.com/tommymsw/vscode-1) VSCode Cookbook(2018)
 * [User interface](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)
 * [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editing/userdefinedsnippets)
+
+## Extensions
+
+- [General Extensions Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MatthiasBohn.general-extensions-pack)
 - [Base Development Extensions Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack)
 - [Translon - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FusionDev.translon)
 - [Vscode Google Translate - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
