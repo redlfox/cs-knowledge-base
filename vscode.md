@@ -23,3 +23,11 @@
 - [markdown translate - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=markdown-translate.markdown-translate)
 - [translate-readme/README.md at main · ephraimduncan/translate-readme](https://github.com/ephraimduncan/translate-readme/blob/main/README.md?plain=1)
 - [ephraimduncan/translate-readme: Translate Github Readme to any other Language](https://github.com/ephraimduncan/translate-readme)
+
+### Custom Languages
+
+- [vscode custom language - Google Search](https://www.google.com/search?q=vscode+custom+language+&num=50)
+- [vscode extensions - Create Custom Language in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/30687783/create-custom-language-in-visual-studio-code)
+- [Language Extensions Overview | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/overview)
+- [html - How to write a custom formatter in VSCode that inherits from existing formatters? - Stack Overflow](https://stackoverflow.com/questions/70658483/how-to-write-a-custom-formatter-in-vscode-that-inherits-from-existing-formatters)
+- [Custom File Extension Configuration · prettier/prettier-vscode Wiki](https://github.com/prettier/prettier-vscode/wiki/Custom-File-Extension-Configuration)
