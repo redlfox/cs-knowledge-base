@@ -225,3 +225,12 @@ def is_subsequence(s, t):
 
 ```
 
+- Get the name of a variable
+
+[Getting name of a variable in Python - Stack Overflow](https://stackoverflow.com/questions/64182077/getting-name-of-a-variable-in-python)
+
+[pwwang/python-varname: Dark magics about variable names in python](https://github.com/pwwang/python-varname)
+
+[python - Getting the name of a variable as a string - Stack Overflow](https://stackoverflow.com/questions/18425225/getting-the-name-of-a-variable-as-a-string)
+```
+```
