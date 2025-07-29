@@ -22,6 +22,9 @@ https://github.com/leegb/myp
 ## Libraries
 
 * Python built-in 'json' module is slow. [msgspec](https://jcristharif.com/msgspec/) orjson
+- [My first ever article: "Finding the fastest Python JSON library on all Python versions (8 compared)" : r/Python](https://www.reddit.com/r/Python/comments/1ah4d2t/my_first_ever_article_finding_the_fastest_python/)
+- [msgspec vs json - Google Search](https://www.google.com/search?q=msgspec+vs+json&num=50)
+- [Processing JSON 2.5x faster than simdjson with msgspec : r/Python](https://www.reddit.com/r/Python/comments/xunm0f/processing_json_25x_faster_than_simdjson_with/)
 * pyqt pyside PySimpleGUI tkinter
 * [PythonForWindows](https://github.com/hakril/PythonForWindows) A codebase aimed to make interaction with Windows and native execution easier
 
